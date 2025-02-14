@@ -77,7 +77,7 @@ startButton.addEventListener('click', () => {
 });
 
 nextPageButton.addEventListener('click', () => {
-    window.location.href = 'Flower.html';
+    window.location.href = 'https://f1qxzz.github.io/valentine-/';
 });
 
 createLoveEffect();
